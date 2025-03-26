@@ -13,5 +13,7 @@ simple , self contained.
 
 ## soft dependencies
 programs binded in the configuration , will compile without them just fine.
+- st
+- dmenu
 - pactl
 - brightnessctl
