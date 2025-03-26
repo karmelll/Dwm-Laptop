@@ -10,3 +10,8 @@ simple , self contained.
 - bidi
 - pertag
 - systray
+
+## soft dependencies
+programs binded in the configuration , will compile without them just fine.
+- pactl
+- brightnessctl
