@@ -1,4 +1,4 @@
-# karmel's simple dwm config
+# My simple dwm config
 simple , self contained.
 
 ## patches
